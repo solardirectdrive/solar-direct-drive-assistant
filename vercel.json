@@ -1,6 +1,10 @@
 {
   "rewrites": [
     {
+      "source": "/",
+      "destination": "https://chatbase.co/_6SeVMWHF1AsnLo2R-8HK/help"
+    },
+    {
       "source": "/help",
       "destination": "https://chatbase.co/_6SeVMWHF1AsnLo2R-8HK/help"
     },
